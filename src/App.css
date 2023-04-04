@@ -1,38 +1,104 @@
-.App {
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.material-symbols-outlined {
+font-variation-settings:
+'FILL' 0,
+'wght' 700,
+'GRAD' 200,
+'opsz' 48
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-size: 6vw;
+  font-family: 'Lalezar', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.scroll-down {
+  position: absolute;
+  bottom: 15%;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h3 {
+  font-size: 2vw;
 }
 
-.App-link {
-  color: #61dafb;
+.wave-container {
+  position: absolute;
+  bottom: -1%;
+  margin: 0;
+  width: 100vw;
+  overflow: hidden;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.wave-img { 
+  width: 150vw;
+  min-width: 640px;
+}
+
+h2 {
+  font-size: 5vw;
+  font-family: 'Lalezar', sans-serif;
+}
+
+h4 {
+  font-size: 1.2vw;
+  font-family: 'Source Sans Pro', sans-serif;
+  max-width: 40vw;
+}
+
+h5 {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sky {
+  background-color: #ABD9FF;
+  background-image: linear-gradient(#7ab6ff, #c3e4ff);
+  color: #3E64FF;
+}
+
+.sunlit {
+  background-color: #47B5FF;
+  color: #191966;
+}
+
+.twilight {
+  background-color: #1369DF;
+  color: #191966;
+}
+
+.midnight {
+  background-color: #1C399E;
+  color: #63C1FF;
+}
+
+.abyssal {
+  background-color: #191565;
+  color: #A2C7FF;
+}
+
+.hadal {
+  background-color: #000;
+  color: #FFF;
 }
