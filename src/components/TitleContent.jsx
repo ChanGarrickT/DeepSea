@@ -7,6 +7,7 @@ function TitleContent() {
     const waveRef = useRef();
 
     useLayoutEffect(() => {
+        // Scroll down prompt bobbing up and down
         gsap.to(scrollPromptRef.current, {
             y: 20,
             ease: "sine.inOut",
@@ -15,6 +16,7 @@ function TitleContent() {
             yoyo: true,
         });
 
+        // Wave loop
         gsap.to(waveRef.current, {
             xPercent: -5,
             duration: 2,

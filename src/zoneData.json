@@ -2,26 +2,36 @@
     "sunlit": {
         "header": "The Sunlit Zone",
         "subtitle": "This zone extends to about 200 meters, or 656 feet, below the surface. Sunlight is mostly visible at these depths, allowing plants and other photosynthetic organisms to thrive.",
+        "bgColor": "#47B5FF",
+        "color": "#191966",
         "facts": []
     },
     "twilight": {
         "header": "The Twilight Zone",
         "subtitle": "From 200 meters to 1000 meters (656 feet to 3280 feet) below the surface is the Twilight Zone. Here, no more than 1% of sunlight is visible, and mostly blue light remains.",
+        "bgColor": "#1369DF",
+        "color": "#191966",
         "facts": []
     },
     "midnight": {
         "header": "The Midnight Zone",
         "subtitle": "The Midnight Zone ranges from 1000 meters to 4000 meters (3280 feet to 13100 feet) below sea level. Starting here, no sunlight is visible. This zone continues down to the start of the oceanic crust.",
+        "bgColor": "#1C399E",
+        "color": "#63C1FF",
         "facts": []
     },
     "abyssal": {
         "header": "The Abyssal Zone",
         "subtitle": "This zone extends from 4000 meters to 6500 meters (13100 feet to 21300 feet) and spans the seafloor. About a third of the Earth's oceans reach this depth.",
+        "bgColor": "#191565",
+        "color": "#A2C7FF",
         "facts": []
     },
     "hadal": {
         "header": "The Hadal Zone",
         "subtitle": "By diving into deep sea trenches, we can go beyond the seafloor. This is the Hadal Zone, with depths as far as 11000 meters (36000 feet) below the surface.",
+        "bgColor": "#000",
+        "color": "#FFF",
         "facts": []
     }
 }
