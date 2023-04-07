@@ -8,28 +8,26 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 export default function ZoneContent(props) {
-    const containerRef = useRef();
+    const containerRef = useRef(null);
 
     useLayoutEffect(() => {
-        // ScrollTrigger.create({
-        //     trigger: containerRef.current,
-        //     pin: true,
-        //     scrub: true,
-        // });
+        let ctx = gsap.context(() => {
+            // Transition from the previous zone's background color
+            // Applies only to second zone and beyond
+            if (props.id > 1) {
+                gsap.from(containerRef.current, {
+                    backgroundColor: zoneData[props.prevZone].bgColor,
+                    scrollTrigger: {
+                        start: "top top",
+                        end: "top -10%",
+                        scrub: true,
+                        trigger: containerRef.current,
+                    },
+                });
+            }
+        }, containerRef);
 
-        // Transition from the previous zone's background color
-        // Applies only to second zone and beyond
-        if (props.id > 1) {
-            gsap.from(containerRef.current, {
-                backgroundColor: zoneData[props.prevZone].bgColor,
-                scrollTrigger: {
-                    start: "top top",
-                    end: "top -10%",
-                    scrub: true,
-                    trigger: containerRef.current,
-                },
-            });
-        }
+        return () => ctx.revert();
     }, []);
 
     return (
