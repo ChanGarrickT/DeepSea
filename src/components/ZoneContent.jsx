@@ -30,6 +30,8 @@ export default function ZoneContent(props) {
         return () => ctx.revert();
     }, []);
 
+    const facts = zoneData[props.zoneName].facts;
+
     return (
         <div className={`container ${props.zoneName}`} ref={containerRef}>
             <ZoneIntro
@@ -37,6 +39,14 @@ export default function ZoneContent(props) {
                 header={zoneData[props.zoneName].header}
                 subtitle={zoneData[props.zoneName].subtitle}
             />
+            {facts.map((fact, index) => (
+                <ZoneFact
+                    key={index}
+                    id={index}
+                    factHeader={fact.factHeader}
+                    factBody={fact.factBody}
+                />
+            ))}
         </div>
     );
 }

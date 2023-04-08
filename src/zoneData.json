@@ -4,7 +4,18 @@
         "subtitle": "This zone extends to about 200 meters, or 656 feet, below the surface. Sunlight is mostly visible at these depths, allowing plants and other photosynthetic organisms to thrive.",
         "bgColor": "#47B5FF",
         "color": "#191966",
-        "facts": []
+        "facts": [
+            {
+                "factHeader": "Phytoplankton",
+                "imgUrl": "",
+                "factBody": "Phytoplankton are a group of microscopic, photosynthetic organisms, such as diatoms, cyanobacteria, and some algae. Like plants on land, they take in carbon dioxide and produce oxygen and nutrients, forming the base of the ocean's food chain. Diatoms are the most abundant. Their tough cell walls are made of silica, the same material used to make glass."
+            },
+            {
+                "factHeader": "Seaweed",
+                "imgUrl": "",
+                "factBody": "The term seaweed groups together algae that are large, rather than microscopic. Seaweed come in many colors, typically green, brown, and red. In some places, kelp, a brown algae, grow tall and densely to form kelp forests. Certain species of seaweed have gas-filled bulbs to help the algae stay afloat. Together, phytoplankton and large algae produce about half of the world's oxygen."
+            }
+        ]
     },
     "twilight": {
         "header": "The Twilight Zone",
