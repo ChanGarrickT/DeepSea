@@ -43,6 +43,7 @@ export default function ZoneContent(props) {
                 <ZoneFact
                     key={index}
                     id={index}
+                    imgSrc={fact.imgSrc}
                     factHeader={fact.factHeader}
                     factBody={fact.factBody}
                 />

@@ -1,4 +1,5 @@
 body {
+  background-color: #47B5FF;
   margin: 0;
 }
 
@@ -44,7 +45,7 @@ h3 {
 
 .wave-container {
   position: absolute;
-  bottom: -1%;
+  bottom: -3.5%;
   margin: 0;
   width: 100vw;
   overflow: hidden;
@@ -87,6 +88,7 @@ p {
   flex-direction: column;
   padding: 0;
   /* Override container padding */
+  height: 100vh;
 }
 
 .sunlit {
@@ -115,7 +117,18 @@ p {
 }
 
 .factContainer {
-  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5rem auto;
   text-align: left;
-  max-width: 30vw;
+  max-width: 50vw;
+}
+
+.factImg {
+  width: 10vw;
+}
+
+.factText {
+  width: 37vw;
 }

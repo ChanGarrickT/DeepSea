@@ -7,13 +7,28 @@
         "facts": [
             {
                 "factHeader": "Phytoplankton",
-                "imgUrl": "",
-                "factBody": "Phytoplankton are a group of microscopic, photosynthetic organisms, such as diatoms, cyanobacteria, and some algae. Like plants on land, they take in carbon dioxide and produce oxygen and nutrients, forming the base of the ocean's food chain. Diatoms are the most abundant. Their tough cell walls are made of silica, the same material used to make glass."
+                "imgSrc": "svgs/phytoplankton.svg",
+                "factBody": "Phytoplankton are a group of microscopic, photosynthetic algae. Like plants on land, they take in carbon dioxide and produce oxygen and nutrients, forming the base of the ocean's food chain. The most common phytoplankton are diatoms. Their cell walls are made of silica, the same material used in glass, resulting in a tough outer shell."
             },
             {
                 "factHeader": "Seaweed",
-                "imgUrl": "",
-                "factBody": "The term seaweed groups together algae that are large, rather than microscopic. Seaweed come in many colors, typically green, brown, and red. In some places, kelp, a brown algae, grow tall and densely to form kelp forests. Certain species of seaweed have gas-filled bulbs to help the algae stay afloat. Together, phytoplankton and large algae produce about half of the world's oxygen."
+                "imgSrc": "svgs/seaweed.svg",
+                "factBody": "The term seaweed groups together algae that are large, rather than microscopic. Seaweed come in many colors, typically green, brown, and red. In some places, kelp, a brown algae, grow tall and densely to form kelp forests. Certain species of seaweed have gas-filled bulbs to help them stay afloat. Together, phytoplankton and large algae produce about half of the world's oxygen. Despite the name and appearance, many types of seaweed are not actually categorized as plants."
+            },
+            {
+                "factHeader": "Zooplankton",
+                "imgSrc": "",
+                "factBody": "Zooplankton are small animals that feed on phytoplankton and are either microscopic or visible with the unaided eye. Some zooplankton are holoplankton, which means they remain small their entire lives and passively follow the flow of water. Copepods and small krill are examples of this. Others are meroplankton, meaning they begin life unable to move themselves, but gain the ability to propel themselves in water or over the sea floor as they mature. These include sea stars, crabs, and clams. Organisms that can control their own movement are called nektons."
+            },
+            {
+                "factHeader": "Bony Fish",
+                "imgSrc": "",
+                "factBody": "Next up on the food chain are fish. In general, fish feed on smaller fish, with the smallest fish feeding on zooplankton. Anchovies and sardines are examples of small fish. Cod and mackerel are larger, while tuna and salmon are larger still. One interesting type of fish, called flatfish, starts its life like most other fish, with eyes on both sides of its body. As the flatfish matures, one of its eyes moves to the other side and the fish swims with that side facing up. It is called a flounder if the eyes end up on the left, and sole if the eyes end up on the right."
+            },
+            {
+                "factHeader": "Cartilaginous Fish",
+                "imgSrc": "",
+                "factBody": "Sharks and rays have skeletons made of cartilage, with is softer than bone. They are some of the largest fish, and will prey on most other smaller fish."
             }
         ]
     },
