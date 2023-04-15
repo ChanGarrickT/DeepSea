@@ -28,7 +28,12 @@
             {
                 "factHeader": "Cartilaginous Fish",
                 "imgSrc": "",
-                "factBody": "Sharks and rays have skeletons made of cartilage, with is softer than bone. They are some of the largest fish, and will prey on most other smaller fish."
+                "factBody": "Sharks and rays have skeletons made of cartilage, which is softer than bone (humans also have some cartilage, in their ears and nose!). Sharks prey on smaller fish, cephalopods, or plankton, depending on the species. Shark skin feels like sandpaper from their pointy scales that helps them swim. Teeth shapes vary from triangle to serrated depending on the species. Rays are closely related to sharks, and are often called \"flattened\" sharks. Rays attack prey and defend themselves with either vemon or electric shocks."
+            },
+            {
+                "factHeader": "Marine Mammals",
+                "imgSrc": "",
+                "factBody": "Dolphins and whales are among the largest creatures in the ocean. Because they are mammals, not fish, they need to regularly surface to breathe. However, they can hold their breath anywhere from 20 to 90 minutes. The largest whale, the blue whale, can grow as long as 30 meters! Despite its size, the blue whale feeds primarily on plankton. Orcas, also known as killer whales, are among the most aggressive predators in the sea, feeding on fish, seals, sea lions, and other whales. Orcas often hunt in groups."
             }
         ]
     },
@@ -37,7 +42,13 @@
         "subtitle": "From 200 meters to 1000 meters (656 feet to 3280 feet) below the surface is the Twilight Zone. Here, no more than 1% of sunlight is visible, and mostly blue light remains.",
         "bgColor": "#1369DF",
         "color": "#191966",
-        "facts": []
+        "facts": [
+            {
+                "factHeader": "Cephalopods",
+                "imgSrc": "",
+                "factBody": ""
+            }
+        ]
     },
     "midnight": {
         "header": "The Midnight Zone",
