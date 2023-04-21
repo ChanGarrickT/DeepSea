@@ -107,12 +107,17 @@
             {
                 "factHeader": "Zombie Worms",
                 "imgSrc": "",
-                "factBody": ""
+                "factBody": "When the bodies of dead fish and whales fall towards the sea floor, they may become home to zombie worms, also called bone-eating worms. Despite the name, they do not comsume the bone itself. Instead, the worms secrete an acid to dissolve the bone, and then consume the nutrients inside. They will feed on almost any bone they come across, even land animals' bones thrown into the sea. The part of the worm we see acts as gills to take in oxygen, while the rest of the body is inside the bone."
+            },
+            {
+                "factHeader": "Deep Sea Corals",
+                "imgSrc": "",
+                "factBody": "Corals are most well known for dwelling near the surface, and under constant threat from both nature and human action, but just as many species corals have been found deep in the ocean. Unlike shallow water corals, which dwell in warm climates and rely on photosynthetic algae for energy, deep sea corals live in cold water and consume microorganisms and organic materials that run into them. To provide relief to the dire coral situation, scientists have attempted bringing deep sea corals closer to the surface, with some success."
             },
             {
                 "factHeader": "Hydrothermal Vents",
                 "imgSrc": "",
-                "factBody": ""
+                "factBody": "Near plate boundaries on the ocean floor, water leaks through cracks and becomes super heated by the magma below. This water gets as hot as 400°C (752°F) but remains a liquid due to deep sea pressures. The heat pushes the back up to the sea floor, bringing with it dissolved chemcicals from the ocean crust. The water is then spewed from another location, depositing the chemicals and building up a small volcano. Microorganisms feed off these chemicals in a process called chemosynthesis, forming the basis of a deep sea food chain, the same way photosynthetic organisms form the basis of the food chain near the surface."
             }
         ]
     },
