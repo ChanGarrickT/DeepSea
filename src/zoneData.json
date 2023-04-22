@@ -102,7 +102,7 @@
             {
                 "factHeader": "Fangtooth",
                 "imgSrc": "",
-                "factBody": ""
+                "factBody": "Fangtooths grow to around 18 centimeters (7 inches) in length. They get their name from their giant teeth relative to body size. Adults feed on fish, crustaceans, and cephalopods, while younger ones feed on zooplankton. Fangtooths stay in deep waters during the day and swim to shallower waters at night to find prey. Scientists believe the fangtooths have poor vision, but make up for that with sensory organs along the thin strip at the side of the body, which help detect even the smallest movements."
             },
             {
                 "factHeader": "Zombie Worms",
@@ -117,7 +117,7 @@
             {
                 "factHeader": "Hydrothermal Vents",
                 "imgSrc": "",
-                "factBody": "Near plate boundaries on the ocean floor, water leaks through cracks and becomes super heated by the magma below. This water gets as hot as 400°C (752°F) but remains a liquid due to deep sea pressures. The heat pushes the back up to the sea floor, bringing with it dissolved chemcicals from the ocean crust. The water is then spewed from another location, depositing the chemicals and building up a small volcano. Microorganisms feed off these chemicals in a process called chemosynthesis, forming the basis of a deep sea food chain, the same way photosynthetic organisms form the basis of the food chain near the surface."
+                "factBody": "Near plate boundaries on the ocean floor, water leaks through cracks and becomes super heated by the magma below. This water gets as hot as 400°C (752°F) but remains a liquid due to deep sea pressures. The heat pushes the back up to the sea floor, bringing with it dissolved chemcicals from the ocean crust. The water is then spewed from another location, depositing the chemicals and building up a small volcano. Microorganisms and tube worms feed off these chemicals in a process called chemosynthesis, forming the basis of a deep sea food chain, the same way photosynthetic organisms form the basis of the food chain near the surface."
             }
         ]
     },
@@ -128,14 +128,20 @@
         "color": "#FFF",
         "facts": [
             {
-                "factHeader": "Mariana Snailfish"
-            },           
+                "factHeader": "Cusk Eel",
+                "imgSrc": "",
+                "factBody": "Since there is no photosynthesis in the deep sea, dissolved oxygen becomes increasingly scarce with depth. And yet, there are still organisms that manage to live in these oxygen-low regions of the ocean. The cusk eel is one of them. Scientists are unsure how an environment with no more than 10% of surface oxygen levels can be hospitable to fish, though they believe the cusk eel's small size (less than 30 centimeters / 12 inches) and weak bones help reduce oxygen use."
+            },          
             {
-                "factHeader": "Sea Pig"
+                "factHeader": "Sea Pig",
+                "imgSrc": "",
+                "factBody": "Although called sea pigs, this organism is actually a type of sea cucumber. They crawl along the sea floor to find bits of organic material to consume. Occasionally a large carcass will fall from waters above, attracting numerous sea pigs. They can grow up to 15 centimeters (6 inches) long and have easily visible feet, unlike other sea cucumbers. Scientists have observed young crabs hitchhiking on or hiding under sea pigs, though they are not sure why this happens."
             },
             {
-                "factHeader": "Cusk Eel"
-            },
+                "factHeader": "Mariana Snailfish",
+                "imgSrc": "",
+                "factBody": "The Mariana Snailfish is fish ever discovered as of 2017. As the name suggests, they were discovered in the Mariana Trench in the western Pacific. They are translucent, have no scales, and grow to 10 centimeters (4 inches) in length. They feed primarily on small crustaceans and appear to have an easy time staying fed. The immense pressure and lack of oxygen where they thrive prevents any larger fish from living in the region, so the Mariana Snailfish has no known predators despite its size."
+            }, 
             {
                 "factHeader": "Deepest Manned Exploration",
                 "imgSrc": "",
