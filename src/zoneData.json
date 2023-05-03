@@ -17,17 +17,17 @@
             },
             {
                 "factHeader": "Zooplankton",
-                "imgSrc": "",
+                "imgSrc": "svgs/zooplankton.svg",
                 "factBody": "Zooplankton are small animals that feed on phytoplankton and are either microscopic or visible with the unaided eye. Some zooplankton are holoplankton, which means they remain small their entire lives and passively follow the flow of water. Copepods and small krill are examples of this. Others are meroplankton, meaning they begin life unable to move themselves, but gain the ability to propel themselves in water or over the sea floor as they mature. These include sea stars, crabs, and clams. Organisms that can control their own movement are called nektons."
             },
             {
                 "factHeader": "Bony Fish",
-                "imgSrc": "",
+                "imgSrc": "svgs/bonyfish.svg",
                 "factBody": "Next up on the food chain are fish. In general, fish feed on smaller fish, with the smallest fish feeding on zooplankton. Anchovies and sardines are examples of small fish. Cod and mackerel are larger, while tuna and salmon are larger still. One interesting type of fish, called flatfish, starts its life like most other fish, with eyes on both sides of its body. As the flatfish matures, one of its eyes moves to the other side and the fish swims with that side facing up. It is called a flounder if the eyes end up on the left, and sole if the eyes end up on the right."
             },
             {
                 "factHeader": "Cartilaginous Fish",
-                "imgSrc": "",
+                "imgSrc": "svgs/cartfish.svg",
                 "factBody": "Sharks and rays have skeletons made of cartilage, which is softer than bone (humans also have some cartilage, in their ears and nose!). Sharks prey on smaller fish, cephalopods, or plankton, depending on the species. Shark skin feels like sandpaper from their pointy scales that helps them swim. Teeth shapes vary from triangle to serrated depending on the species. Rays are closely related to sharks, and are often called \"flattened\" sharks. Rays attack prey and defend themselves with either vemon or electric shocks."
             },
             {
