@@ -32,7 +32,7 @@
             },
             {
                 "factHeader": "Marine Mammals",
-                "imgSrc": "",
+                "imgSrc": "svgs/mammals.svg",
                 "factBody": "Dolphins and whales are among the largest creatures in the ocean. Because they are mammals, not fish, they need to regularly surface to breathe. However, they can hold their breath anywhere from 20 to 90 minutes. The largest whale, the blue whale, can grow as long as 30 meters! Despite its size, the blue whale feeds primarily on plankton. Orcas, also known as killer whales, are among the most aggressive predators in the sea, feeding on fish, seals, sea lions, and other whales. Orcas often hunt in groups."
             }
         ]
@@ -45,7 +45,7 @@
         "facts": [
             {
                 "factHeader": "Giant Squids",
-                "imgSrc": "",
+                "imgSrc": "svgs/squid.svg",
                 "factBody": "Giant squids are cephalopods, a class that includes squids, octopuses, and nautiluses. Until the early 2000's, humans have only observed dead giant squids that either wash up on shores or are inside sperm whales. Giant squids' mantle (the cone above their face) are around 2 meters, and the longest total length recorded is 13 meters (43 feet). The suction cups on giant squids contain a thin, hard serrated ring made of chitin (the same material that make your finger and toenails) that is used to attack prey."
             },
             {
