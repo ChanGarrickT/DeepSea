@@ -50,17 +50,17 @@
             },
             {
                 "factHeader": "Barreleye",
-                "imgSrc": "",
+                "imgSrc": "svgs/barreleye.svg",
                 "factBody": "The most prominent feature of barreleyes is their green, upward-facing eyes, nested inside a translucent head. These eyes are tube-shaped, which restricts field of view but offers better light detection in a dark environment. The green in the eyes filters sunlight so the barreleye can focus on bioluminescent light. The barreleye usually looks upward when searching for food, but will rotate its eyes forward to catch a meal, which mainly consists of zooplankton. The two nubs at the front of the head are used to detect smell."
             },
             {
                 "factHeader": "Silky Jelly",
-                "imgSrc": "",
+                "imgSrc": "svgs/silkyjelly.svg",
                 "factBody": "The silky jelly is one of the fastest swimming jellies. Their bells, which can be up to 4.5 centimeters (1.8 inches) in diameter, can create a blue flash that startles predators. As they swim to escape a predator, they may also drop a few tentacles to cause confusion. Like many other jellies, their tentacles are capable of stinging both predators and prey. Scientists believe the silky jelly can regrow any of their 32 tentacles. Silky jellies primarily feed on small crustaceans."
             },
             {
                 "factHeader": "Deepest SCUBA Dive",
-                "imgSrc": "",
+                "imgSrc": "svgs/scuba.svg",
                 "factBody": "In September 2014, Ahmed Gabr of Egypt dove to a depth of just over 332 meters (1,090 feet) in the Red Sea. While it only took him about 12 minutes to reach that depth, it took almost 15 hours to return to the surface. At deep sea pressures, the body starts to absorb nitrogen gas that is already in the body. If a diver ascends too early, the nitrogen doesn't have a chance to revert to a gas to be properly expelled, causing decompression sickness. Symptoms can be as mild as itching or as severe as nausea and unconsciousness."
             }
         ]
@@ -73,12 +73,12 @@
         "facts": [
             {
                 "factHeader": "Anglerfish",
-                "imgSrc": "",
+                "imgSrc": "svgs/anglerfish.svg",
                 "factBody": "As sunlight becomes decreasingly visible with depth, an increasing percentage of sea creatures that can be found - as much as 80% - are bioluminescent. This means they use chemistry to produce their own light. Anglerfish don't produce their own light. Instead, they rely on bacteria in their lures to produce light. What we picture as an anglerfish is usually the female variant. Male anglerfish are much smaller. To mate, males latch onto the female's body, and the two fuse and mix their genetic material."
             },
             {
                 "factHeader": "Giant Isopod",
-                "imgSrc": "",
+                "imgSrc": "svgs/isopod.svg",
                 "factBody": "This relative of the tiny pillbug on land lives in the deep sea and grows as large as 40 centimeters (16 inches). They have large eyes and 4 antennae to sense their surroundings. To swim, the giant isopod uses fin-like structures hidden under the back half of their body. They also use their 14 legs to walk on the sea floor and grab prey. Giant isopods primarily feed on the remains of dead organisms from the waters above, but have also been observed feeding on fish and other small creatures they encounter."
             },
             {
