@@ -22,13 +22,14 @@ export default function ZoneContent(props) {
                         end: "top -10%",
                         scrub: true,
                         trigger: containerRef.current,
+                        markers: true
                     },
                 });
             }
         }, containerRef);
 
         return () => ctx.revert();
-    }, []);
+    }, [props.id, props.prevZone]);
 
     const facts = zoneData[props.zoneName].facts;
 

@@ -8,7 +8,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   overflow: hidden;
-  padding: 50% 0;
+  padding-top: 60vh;
 }
 
 .material-symbols-outlined {
@@ -97,8 +97,8 @@ p {
 }
 
 .twilight {
-  background-color: #1369DF;
-  color: #191966;
+  background-color: #1f79f5;
+  color: #101035;
 }
 
 .midnight {
@@ -119,16 +119,22 @@ p {
 .factContainer {
   display: flex;
   flex-direction: row;
+  align-items: center;
   justify-content: space-between;
   margin: 5rem auto;
   text-align: left;
-  max-width: 50vw;
+  max-width: 70vw;
 }
 
 .factImg {
-  width: 10vw;
+  width: 20vw;
 }
 
 .factText {
-  width: 37vw;
+  width: 45vw;
+}
+
+.citations {
+  background-color: #000;
+  color: #FFF;
 }

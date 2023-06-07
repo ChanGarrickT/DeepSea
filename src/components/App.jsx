@@ -1,5 +1,6 @@
 import "../App.css";
 import ZoneContainer from "./ZoneContainer";
+import Citations from "./Citations";
 
 const zones = ["sky", "sunlit", "twilight", "midnight", "abyssal", "hadal"];
 
@@ -14,6 +15,7 @@ function App() {
                     prevZone={index > 1 ? zones[index - 1] : null}
                 />
             ))}
+            <Citations />
         </div>
     );
 }

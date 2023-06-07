@@ -40,8 +40,8 @@
     "twilight": {
         "header": "The Twilight Zone",
         "subtitle": "From 200 meters to 1,000 meters (656 feet to 3,280 feet) below the surface is the Twilight Zone. Here, no more than 1% of sunlight is visible, and mostly blue light remains.",
-        "bgColor": "#1369DF",
-        "color": "#191966",
+        "bgColor": "#1F79F5",
+        "color": "#101035",
         "facts": [
             {
                 "factHeader": "Giant Squids",
@@ -116,7 +116,7 @@
             },
             {
                 "factHeader": "Hydrothermal Vents",
-                "imgSrc": "",
+                "imgSrc": "svgs/vents.svg",
                 "factBody": "Near plate boundaries on the ocean floor, water leaks through cracks and becomes super heated by the magma below. This water gets as hot as 400°C (752°F) but remains a liquid due to deep sea pressures. The heat pushes the back up to the sea floor, bringing with it dissolved chemcicals from the ocean crust. The water is then spewed from another location, depositing the chemicals and building up a small volcano. Microorganisms and tube worms feed off these chemicals in a process called chemosynthesis, forming the basis of a deep sea food chain, the same way photosynthetic organisms form the basis of the food chain near the surface."
             }
         ]
@@ -129,22 +129,22 @@
         "facts": [
             {
                 "factHeader": "Cusk Eel",
-                "imgSrc": "",
+                "imgSrc": "svgs/cuskeel.svg",
                 "factBody": "Since there is no photosynthesis in the deep sea, dissolved oxygen becomes increasingly scarce with depth. And yet, there are still organisms that manage to live in these oxygen-low regions of the ocean. The cusk eel is one of them. Scientists are unsure how an environment with no more than 10% of surface oxygen levels can be hospitable to fish, though they believe the cusk eel's small size (less than 30 centimeters / 12 inches) and weak bones help reduce oxygen use."
             },          
             {
                 "factHeader": "Sea Pig",
-                "imgSrc": "",
+                "imgSrc": "svgs/seapig.svg",
                 "factBody": "Although called sea pigs, this organism is actually a type of sea cucumber. They crawl along the sea floor to find bits of organic material to consume. Occasionally a large carcass will fall from waters above, attracting numerous sea pigs. They can grow up to 15 centimeters (6 inches) long and have easily visible feet, unlike other sea cucumbers. Scientists have observed young crabs hitchhiking on or hiding under sea pigs, though they are not sure why this happens."
             },
             {
                 "factHeader": "Mariana Snailfish",
-                "imgSrc": "",
+                "imgSrc": "svgs/snailfish.svg",
                 "factBody": "The Mariana Snailfish is fish ever discovered as of 2017. As the name suggests, they were discovered in the Mariana Trench in the western Pacific. They are translucent, have no scales, and grow to 10 centimeters (4 inches) in length. They feed primarily on small crustaceans and appear to have an easy time staying fed. The immense pressure and lack of oxygen where they thrive prevents any larger fish from living in the region, so the Mariana Snailfish has no known predators despite its size."
             }, 
             {
                 "factHeader": "Deepest Manned Exploration",
-                "imgSrc": "",
+                "imgSrc": "svgs/dive.svg",
                 "factBody": "On January 23, 1960, Jacques Piccard and Don Walsh reached a depth of 10,911 meters (35,797 feet) in the Mariana Trench. It remains the record today. Decades later, on March 26, 2012, filmmaker James Cameron (of Titanic and the Avatar franchise) came close to that record, diving to 10,908 meters (35,787 feet). The pressure at these depths is over 1,000 times greater than the pressure Earth's atmosphere exerts at the surface, and was enough to compress Cameron's vessel a few inches inward."
             }
         ]
