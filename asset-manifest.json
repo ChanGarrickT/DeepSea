@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DeepSea/static/css/main.a2507aa8.css",
+    "main.js": "/DeepSea/static/js/main.5b182c37.js",
+    "static/js/787.7522a698.chunk.js": "/DeepSea/static/js/787.7522a698.chunk.js",
+    "static/media/waves.svg": "/DeepSea/static/media/waves.016a7411428b2c2d12970ab745ac1928.svg",
+    "index.html": "/DeepSea/index.html",
+    "main.a2507aa8.css.map": "/DeepSea/static/css/main.a2507aa8.css.map",
+    "main.5b182c37.js.map": "/DeepSea/static/js/main.5b182c37.js.map",
+    "787.7522a698.chunk.js.map": "/DeepSea/static/js/787.7522a698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2507aa8.css",
+    "static/js/main.5b182c37.js"
+  ]
+}
