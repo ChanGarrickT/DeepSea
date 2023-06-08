@@ -22,7 +22,6 @@ export default function ZoneContent(props) {
                         end: "top -10%",
                         scrub: true,
                         trigger: containerRef.current,
-                        markers: true
                     },
                 });
             }

@@ -1,11 +1,13 @@
 [
     {
         "title": "Introduction to Ocean Sciences",
-        "author": "Segar, Douglas A"
+        "author": "Segar, Douglas A",
+        "url": "https://books.google.com/books/about/Introduction_to_Ocean_Sciences.html?id=DIhNAQAAIAAJ"
     },
     {
         "title": "Sharks and Rays of the World",
-        "author": "Perrine, Doug"
+        "author": "Perrine, Doug",
+        "url": "https://www.google.com/books/edition/Sharks_and_Rays_of_the_World/frVYGwAACAAJ"
     },
     {
         "title": "What is Decompression Sickness (DCS)?",
@@ -20,7 +22,8 @@
         "url": "https://www.mbari.org"
     },
     {
-        "title": "National Oceanic and Atmospheric Administration"
+        "title": "National Oceanic and Atmospheric Administration",
+        "url": "https://www.noaa.gov/fisheries"
     },
     {
         "title": "Smithsonian Ocean",

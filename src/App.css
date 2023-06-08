@@ -134,7 +134,28 @@ p {
   width: 45vw;
 }
 
-.citations {
+.sources {
   background-color: #000;
   color: #FFF;
+  width: 50vw;
+  text-align: left;
+  padding: 30vh 25vw 40vh;
+}
+
+.source-title {
+  font-size: 1.3vw;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+
+.source-detail {
+  font-size: 0.8vw;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 5px 0;
+}
+
+.source-url {
+  color: #7ab6ff;
+  text-decoration: none;
 }
